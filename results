@@ -1,0 +1,21 @@
+from app:
+FLLFUUFUU UUURRRUBB RRRDFFRFF DDRDDRBBB LLDLLDFFD LBBUBBLLD
+white      red        green      yellow     orange    blue
+
+app v2:
+FFLUULUUL UBBURRFRR URRFFFDDD RRRDDBDDB FFFLLDLLB BBUBBUDLL
+
+
+correct:
+UUFUUFLLF UUURRRUBB FFRFFDRRR BBBRDDRDD LLDLLDFFD LBBUBBLLD
+             V                             V         V 
+
+
+
+
+'green' : 'F',
+'white' : 'U',
+'blue'  : 'B',
+'red'   : 'R',
+'orange': 'L',
+'yellow': 'D'
